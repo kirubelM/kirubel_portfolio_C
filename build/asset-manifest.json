@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0eaa9d4.css",
+    "main.js": "/static/js/main.1573d751.js",
+    "static/js/53.85259e5e.chunk.js": "/static/js/53.85259e5e.chunk.js",
+    "static/media/river_bend.png": "/static/media/river_bend.094a775951687f3f0f2e.png",
+    "static/media/RIBCO_cr.png": "/static/media/RIBCO_cr.9ec05d00f565ab0d2570.png",
+    "static/media/New_Health_1.png": "/static/media/New_Health_1.ca0d9cf49b7c7b14df8f.png",
+    "static/media/TGTF_2.png": "/static/media/TGTF_2.e7cd22d04c7d17d36e2b.png",
+    "static/media/Home_LK-_3.png": "/static/media/Home_LK-_3.b9add8f7c82422d9e1f8.png",
+    "static/media/aboutme.png": "/static/media/aboutme.c28b0e3efdeb8c5fd7a4.png",
+    "static/media/second.jpg": "/static/media/second.b0ab43b72fa979dee280.jpg",
+    "static/media/Kirubel_Mognehode_Resume.pdf": "/static/media/Kirubel_Mognehode_Resume.7f23f507af92287ae8bf.pdf",
+    "static/media/KM_logo_white.png": "/static/media/KM_logo_white.f09eb5283fdb7304736a.png",
+    "static/media/moon2.png": "/static/media/moon2.59f0b0a9431e0b8e9f4a.png",
+    "index.html": "/index.html",
+    "main.d0eaa9d4.css.map": "/static/css/main.d0eaa9d4.css.map",
+    "main.1573d751.js.map": "/static/js/main.1573d751.js.map",
+    "53.85259e5e.chunk.js.map": "/static/js/53.85259e5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0eaa9d4.css",
+    "static/js/main.1573d751.js"
+  ]
+}
